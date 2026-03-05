@@ -8,9 +8,7 @@ Daily Power Generation Analysis (2019 - 2020)
   * Data Cleaning & Preparation
   * Exploratory Data Analysis (EDA)
   * Key Insights
-  * Recommendations
-  * How to Use
-    
+ 
 ## 📊 Project Overview
   * The study focuses on comparing planned generation with actual generation to evaluate plant performance and operational efficiency. 
   * To analyze daily and state-wise power generation trends in India across multiple years to identify performance patterns and to compare planned vs actual generation, evaluate power station types and provide actionable insights through interactive dashboard.
