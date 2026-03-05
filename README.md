@@ -30,18 +30,19 @@ Descriptive Statistics
 Conditional Formatting
 
 ## 🔍 Exploratory Data Analysis (EDA)
-How actual generation compares with planned generation?
-Which states and power stations produce the most power?
-How efficiently the installed capacity is utilized?
-How generation trends change over time?
+  How actual generation compares with planned generation?
+  Which states and power stations produce the most power?
+  How efficiently the installed capacity is utilized?
+  How generation trends change over time?
+  
 <img width="458" height="297" alt="image" src="https://github.com/user-attachments/assets/9eb650a5-384a-4a65-814b-ed3de572e44b" />
 
 ## 💡 Key Insights
-   ● Planned and actual generation are generally aligned, showing good  planning accuracy.
-   ● Some stations experience negative generation variance indicating underperformance.
-   ● Capacity utilization varies across stations, showing efficiency differences.
-   ● State-wise generation analysis highlights regional performance differences.
-   ● High-performing stations can serve as benchmarks for operational improvements.
+   * Planned and actual generation are generally aligned, showing good  planning accuracy.
+   * Some stations experience negative generation variance indicating underperformance.
+   * Capacity utilization varies across stations, showing efficiency differences.
+   * State-wise generation analysis highlights regional performance differences.
+   * High-performing stations can serve as benchmarks for operational improvements.
 
 
 
