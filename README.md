@@ -20,8 +20,8 @@ Daily Power Generation Analysis (2019 - 2020)
   * Domain: Energy / Renewable Energy (India)
 
 ## 🛠️ Tools & Technologies
-   * # Excel: Data cleaning, transformation.
-   * #Power BI: Dimension Table, Data modelling, DAX calculations, visualization, and interactive dashboard creation.
+   *  Excel: Data cleaning, transformation.
+   * Power BI: Dimension Table, Data modelling, DAX calculations, visualization, and interactive dashboard creation.
 
 ## 🧹 Data Cleaning & Preparation
    * Handled missing values and duplicates.
