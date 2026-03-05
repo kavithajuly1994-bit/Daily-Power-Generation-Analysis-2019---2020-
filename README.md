@@ -1,51 +1,47 @@
-[Project Title]____________________________________________________________
+## [Project Title]
 Daily Power Generation Analysis (2019 - 2020)
 
-📖 Table of Contents
-Project Overview
-Data Source
-Tools & Technologies
-Data Cleaning & Preparation
-Exploratory Data Analysis (EDA)
-Key Insights
-Recommendations
-How to Use
-📊 Project Overview
-Provide a high-level summary of the goals. What business problem were you trying to solve? For example: "Analyzing customer churn to identify high-risk segments and improve retention strategies."
+## 📖 Table of Contents
+  ● Project Overview
+  ● Data Source
+  ● Tools & Technologies
+  ● Data Cleaning & Preparation
+  ● Exploratory Data Analysis (EDA)
+  ● Key Insights
+  ● Recommendations
+  ● How to Use
+    
+## 📊 Project Overview
+The study focuses on comparing planned generation with actual generation to evaluate plant performance and operational efficiency. To analyze daily and state-wise power generation trends in India across multiple years to identify performance patterns and to compare planned vs actual generation, evaluate power station types and provide actionable insights through interactive dashboard.
 
-🗂️ Data Source
-Describe where you got the data (e.g., Kaggle, company database, web scraping). Mention the size and key variables.
+## 🗂️ Data Source
+Source Description and Timeline: India Data Portal / Source -Ministry of Power/ Energy - https://indiadataportal.com/p/power/r/mop-power_generation-pl-dl-abc
+Domain: Energy / Renewable Energy (India)
 
-🛠️ Tools & Technologies
-Language: Python (Pandas, NumPy, Seaborn) or R
-Database: SQL (PostgreSQL/MySQL)
-Visualization: Tableau, Power BI, or Matplotlib
-Documentation: Jupyter Notebook
-🧹 Data Cleaning & Preparation
-Detail the steps you took to make the data usable:
+## 🛠️ Tools & Technologies
+   ● Excel: Data cleaning, transformation.
+   ● Power BI: Dimension Table, Data modelling, DAX calculations, visualization, and interactive dashboard creation.
 
+## 🧹 Data Cleaning & Preparation
 Handled missing values and duplicates.
-Formatted data types (e.g., dates).
-Created new calculated columns (Feature Engineering).
-🔍 Exploratory Data Analysis (EDA)
-What were the main questions you explored?
+Formatted data types 
+Created new calculated columns 
+Descriptive Statistics
+Conditional Formatting
 
-What is the overall sales trend?
-Is there a correlation between price and customer rating?
-Tip: Insert a screenshot of one key visualization here to catch the reader's eye.
+## 🔍 Exploratory Data Analysis (EDA)
+How actual generation compares with planned generation?
+Which states and power stations produce the most power?
+How efficiently the installed capacity is utilized?
+How generation trends change over time?
+<img width="458" height="297" alt="image" src="https://github.com/user-attachments/assets/9eb650a5-384a-4a65-814b-ed3de572e44b" />
 
-💡 Key Insights
-List your top 3–5 findings in bullet points.
+## 💡 Key Insights
+   ● Planned and actual generation are generally aligned, showing good  planning accuracy.
+   ● Some stations experience negative generation variance indicating underperformance.
+   ● Capacity utilization varies across stations, showing efficiency differences.
+   ● State-wise generation analysis highlights regional performance differences.
+   ● High-performing stations can serve as benchmarks for operational improvements.
 
-Insight 1: Sales peaked in Q4, primarily driven by holiday promotions.
-Insight 2: Customers aged 25-34 have the highest lifetime value.
-🚀 Recommendations
-Translate your insights into actionable business advice.
 
-"Increase marketing budget for the 25-34 demographic."
-"Re-evaluate the pricing strategy for low-performing regions."
-⚙️ How to Use
-Explain how someone else can run your project.
 
-List dependencies (e.g., pip install -r requirements.txt).
-Provide instructions for running the notebook or script.
